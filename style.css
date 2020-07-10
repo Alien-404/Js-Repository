@@ -1,0 +1,49 @@
+html {
+    font-family: 'Rubik', sans-serif;
+}
+body {
+    background-color: #040615;
+    color: #ffff;
+    text-align: center;
+}
+.vn {
+    color: #f3e5ab;
+}
+.yn {
+    color: #f0db4f;
+}
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(10, 10, 129);
+    border-right: 2px solid black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.center {
+    justify-content: center;
+}
+.text {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    font-family: 'Rubik', sans-serif;
+    background-color: rgb(10, 10, 100);
+}
+.box-m {
+    width: 75px;
+    height: 70px;
+    padding: 10px;
+    background-color: rgb(12, 93, 243);
+    margin: 80px 0 0 0;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.time-info {
+ font-size: 35px;
+ color: white;
+ text-align: center;
+ font-family: 'Rubik', sans-serif;
+}
+
